@@ -48,7 +48,7 @@ The Receipe Generator is a web application that uses artificial intelligence to 
 
 1. Run the application:
    ```
-   python app.py
+   python receipe_generator.py
    ```
 
 2. Open a web browser and navigate to `http://127.0.0.1:8080`
